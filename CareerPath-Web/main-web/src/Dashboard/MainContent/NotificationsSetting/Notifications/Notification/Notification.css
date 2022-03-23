@@ -1,0 +1,10 @@
+/* Toggle B */
+input:checked ~ .dot {
+    transform: translateX(100%);
+  }
+
+  input:checked ~ .dot1 {
+    transform: translateX(100%);
+  }
+           
+
